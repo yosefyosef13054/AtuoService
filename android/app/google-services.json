@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "287983491617",
+    "project_id": "autosrvice-65647",
+    "storage_bucket": "autosrvice-65647.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287983491617:android:bd9bbba9101f8e8a716160",
+        "android_client_info": {
+          "package_name": "com.autoservice.merchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287983491617-um1fdcdt4noj5jsukg7fjouc72epur28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLsTH7h0PJ1eclvBp6Wjw15PrpuPNUGYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287983491617-um1fdcdt4noj5jsukg7fjouc72epur28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287983491617:android:0b72129874170bba716160",
+        "android_client_info": {
+          "package_name": "com.dreamsoft.autoservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287983491617-kifn646ietkuo81kdcm3eq2sh79ctbue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dreamsoft.autoservice",
+            "certificate_hash": "fd72fdb226de6205151175ffe54cf5a447851895"
+          }
+        },
+        {
+          "client_id": "287983491617-um1fdcdt4noj5jsukg7fjouc72epur28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLsTH7h0PJ1eclvBp6Wjw15PrpuPNUGYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287983491617-um1fdcdt4noj5jsukg7fjouc72epur28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
